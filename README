@@ -8,6 +8,8 @@ If you are interested in playing with the source code.
 		signals.c - setup_signals()  
 		keys.c - main_key_press_cb() - the main loop.
 
+The most current version is available at git@github/ksteen/vifm-w32.git
+
 		
 		
 
